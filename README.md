@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @RhubarbSaab
 - 👀 I’m interested in making websites, games, and experiments.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, SQL, and C#.
-- 💞️ I’m looking to collaborate on games development (mainly Unty based), websites, and any other coding/ engineering ventures (mainly for fun or to learn/ help).
-- 📫 How to reach me: Discord-"Rhubarb Saab#0224"
+- 🌱 I’m know mainly C#, Matlab, and enough C/C++ to code a basic Arduino. Currently building on my Python, HTML, CSS, JS, and SQL skills.
+- 💞️ I’m looking to collaborate on games development (mainly Unity based), websites, and any other coding/ engineering ventures (mainly for fun or to learn/help).
 
 <!---
 RhubarbSaab/RhubarbSaab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
