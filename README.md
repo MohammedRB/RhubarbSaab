@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mr B.
 - 👀 I’m a mechanical engineering student with an interested in making websites, games, and experiments.
-- 🌱 I’m know mainly C#, MATLAB, and enough C/C++ to code a basic Arduino. Currently building on my Python, HTML, CSS, JS, and SQL skills.
+- 🌱 I’m know mainly C#, MATLAB, enough C/C++ to code a basic Arduino, and I got some skills in SolidWorks. Currently building on my Python, HTML, CSS, JS, and SQL skills.
 - 💞️ I’m looking to collaborate on games development (mainly Unity based), websites, and any other coding/ engineering ventures (mainly for fun or to learn/help).
 
 <!---
